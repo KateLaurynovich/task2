@@ -1,0 +1,7 @@
+package by.bsu.airline.entity;
+
+public enum AirbusType {
+    AIRBUS_A310, AIRBUS_A319, AIRBUS_A320, AIRBUS_A330, AIRBUS_A380,
+    BOEING737, BOEING747, BOEING757, BOEING767, BOEING777, TY_154, TY_204
+
+}

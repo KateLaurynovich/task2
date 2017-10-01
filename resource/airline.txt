@@ -1,0 +1,21 @@
+AIRBUS_A319 lengthAircraft:34 heightAircraft:12 seating:156 businessClass:40 economyClass:116 carrying:14000
+AIRBUS_A320 lengthAircraft:38 heightAircraft:12 seating:150 businessClass:40 economyClass:110 carrying:16600
+AIRBUS_A310 lengthAircraft:47 heightAircraft:16 seating:279 businessClass:60 economyClass:219 carrying:33550
+AIRBUS_A330 lengthAircraft:59 heightAircraft:18 seating:406 businessClass:80 economyClass:216 firstClass:110 carrying:49500
+AIRBUS_A380 lengthAircraft:73 heightAircraft:24 seating:700 businessClass:180 economyClass:210 firstClass:310 carrying:83000
+
+BOEING737 lengthAircraft:34 heightAircraft:11 seating:149 businessClass:40 economyClass:119 carrying:15000
+BOEING747 lengthAircraft:70 heightAircraft:20 seating:580 businessClass:80 economyClass:300 firstClass:200 carrying:68600
+BOEING757 lengthAircraft:55 heightAircraft:14 seating:279 businessClass:75 economyClass:204 carrying:31600
+BOEING767 lengthAircraft:55 heightAircraft:16 seating:328 businessClass:54 economyClass:200 firstClass:84 carrying:43800
+BOEING777 lengthAircraft:74 heightAircraft:19 seating:550 businessClass:50 economyClass:300 firstClass:200 carrying:68500
+
+AIRBUS_A380 lengthAircraft:73 heightAircraft:24 seating: 700 businessClass: 180  economyClass:210
+TY_154 lengthAircraft:40 heightAircraft:14 seating:166 businessClass:0 economyClass:166 carrying:16000
+TY_204 lengthAircraft:48 heightAircraft:11 seating:180 businessClass:0 economyClass:180 carrying:18000
+
+BOEING_747_8I lengthAircraft:76 heightAircraft:20 carrying:68600
+LOCKHEED_C5_GALAXY lengthAircraft:75 heightAircraft:20 carrying:67300
+AIRBUS_A300 lengthAircraft:53 heightAircraft:17 carrying:34200
+BOEING_727 lengthAircraft:40 heightAircraft:10 carrying:28000
+BOEING_737 lengthAircraft:39 heightAircraft:13 carrying:22300
